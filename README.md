@@ -12,4 +12,4 @@ Documentation Page: https://neat-python.readthedocs.io/en/latest/neat_overview.h
 Programmed in Python 3.7.
 
 ### Preview of AI Training
-https://github.com/jachiang1216/Ship-Dodger-AI/tree/master/img/Generation_1.gif
+![Alt Text](https://github.com/jachiang1216/Ship-Dodger-AI/tree/master/img/Generation_1.gif)
