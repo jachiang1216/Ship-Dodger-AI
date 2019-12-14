@@ -5,10 +5,9 @@ The level is an autoscroll and the ship will auto move up with incoming obstacle
 The AI is only given two available ship controls to toggle between: Left and Right
 
 In order to decide what controls to press, the program utilizes NeuroEvolution of Augmenting Topologies (NEAT) Python library.
+This neural network is tweaked on its input nodes and various parameters to allow the AI progress and learn faster.
 
 Documentation Page: https://neat-python.readthedocs.io/en/latest/neat_overview.html
-
-This neural network is tweaked on its input nodes and various parameters to allow the AI progress and learn faster. 
 
 Programmed in Python 3.7.
 
