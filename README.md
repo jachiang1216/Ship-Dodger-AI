@@ -13,3 +13,10 @@ Programmed in Python 3.7.
 
 ### Preview of AI Training
 ![Alt Text](https://github.com/jachiang1216/Ship-Dodger-AI/tree/master/img/Generation_1.gif)
+
+## 2. How to Run
+- Download all .py files, feedforward.txt, img and sound directories and place them in your working directory.
+- Run Ship_Dodger.py
+
+## 3. Credits
+
