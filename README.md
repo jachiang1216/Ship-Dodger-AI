@@ -22,3 +22,5 @@ Programmed in Python 3.7.
 Graphics Art
 - Author: pzUH https://opengameart.org/content/free-sci-fi-platformer-game-tileset
 - Author: Kenney https://opengameart.org/content/space-shooter-redux
+Music
+- King Of the Desert: http://www.adalin.com/index.html?frame=midi/index.html 
