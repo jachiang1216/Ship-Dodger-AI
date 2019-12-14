@@ -19,4 +19,6 @@ Programmed in Python 3.7.
 - Run Ship_Dodger.py
 
 ## 3. Credits
-
+Graphics Art
+- Author: pzUH https://opengameart.org/content/free-sci-fi-platformer-game-tileset
+- Author: Kenney https://opengameart.org/content/space-shooter-redux
